@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @karilyn, a writer/editor/community builder based in Revelstoke, BC, where I try have as much fun outside as possible. 
+- 👋 Hi, I’m @karilyn, a full stack web developer and writer/editor/community builder.
+- :mountain_snow: based in Revelstoke, BC, where I try have as much fun outside as possible. 
 - 🌱 I’m currently taking the Lighthouse Labs web development bootcamp.
 
 
