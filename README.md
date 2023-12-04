@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karilyn, a full stack web developer and writer/editor/community builder.
 - :mountain_snow: I'm based in Revelstoke, BC, where I try have as much fun outside as possible.
 - :mortar_board: I earned my diploma in web development from Lighthouse Labs and am looking for web development work.
-- 🌱 I'm interested in exploring technical writing.
+- 🌱 I bring a writer and editor's eye to development.
 - 📫 Reach me at karilyn.kempton@gmail.com
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/karilynkempton/)
 
